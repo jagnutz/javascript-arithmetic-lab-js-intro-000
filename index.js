@@ -20,6 +20,6 @@ return parsed
 }
 
 function preserveDecimal(n){
-var parsed = parseFloat(n);
-return parsed
+var float = parseFloat(n);
+return float
 }
