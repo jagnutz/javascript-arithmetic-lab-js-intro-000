@@ -14,5 +14,5 @@ function dec(n){
   var i=n; i--;
    return i}
 
-parseInt(n,10) {makeInt(n)
-  {return n}}
+parseInt(n,10)
+  {return n}
