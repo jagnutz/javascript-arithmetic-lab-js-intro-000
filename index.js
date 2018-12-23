@@ -13,3 +13,6 @@ function inc(n){
 function dec(n){
   var i=n; i--;
    return i}
+
+function makeInt(n,10)
+  { return n}
