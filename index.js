@@ -10,4 +10,6 @@ function inc(n){
   var i=n, i++;
    return i}
 
-function dec(n){return n--}
+function dec(n){
+  var i=n, i--;
+   return i}
